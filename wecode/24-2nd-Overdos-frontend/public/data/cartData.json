@@ -1,0 +1,40 @@
+{
+  "PRODUCTS_LIST": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "name": "비타민C",
+      "image": "http://localhost:3000/images/probiotics.png",
+      "price": 35700,
+      "quantity": 1,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "product_id": 2,
+      "name": "밀크씨슬",
+      "image": "http://localhost:3000/images/probiotics.png",
+      "price": 22600,
+      "quantity": 1,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "product_id": 3,
+      "name": "비타민B",
+      "image": "http://localhost:3000/images/probiotics.png",
+      "price": 11900,
+      "quantity": 1,
+      "checked": true
+    },
+    {
+      "id": 4,
+      "product_id": 4,
+      "name": "홍삼 옥타코사놀",
+      "image": "http://localhost:3000/images/probiotics.png",
+      "price": 42000,
+      "quantity": 1,
+      "checked": true
+    }
+  ]
+}

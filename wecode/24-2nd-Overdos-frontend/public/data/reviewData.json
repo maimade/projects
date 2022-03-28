@@ -1,0 +1,85 @@
+{
+  "REVIEWS_LIST": [
+    {
+      "id": 1,
+      "name": "이지아",
+      "products": "오메가3, 홍삼 옥타코사놀, 칼슘 마그네슘 비타민D",
+      "duration": "정기구독 13개월",
+      "date": "2021.08.20",
+      "image": "https://images.pexels.com/photos/3873147/pexels-photo-3873147.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "description": "필링은 오래 구독하는 개발자들에게 더 많은 혜택을 줘서 좋아요~"
+    },
+    {
+      "id": 2,
+      "name": "강호동",
+      "products": "프로바이오틱스, 칼슘 마그네슘 비타민D",
+      "duration": "정기구독 1개월",
+      "date": "2021.08.18",
+      "image": "https://images.pexels.com/photos/3873163/pexels-photo-3873163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "한동안 영양제 안챙겨 먹어서 그런가 몸이 힘들더라구요! 마침 정기배송 해준다기에 필요한 영양제가 뭔지 맞춤으로 찾을수도 있다는걸 보고 주문 했습니다! 잘 챙겨 먹을께요!!"
+    },
+    {
+      "id": 3,
+      "name": "전원주",
+      "products": "오메가3, 칼슘 마그네슘 비타민D",
+      "duration": "정기구독 2개월",
+      "date": "2021.08.19",
+      "image": "https://images.pexels.com/photos/6753150/pexels-photo-6753150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "지금 시국에 필링으로 하루하루 건강해지는 느낌이 들어서 이제 필링 없으면 불안해요ㅠㅠ"
+    },
+    {
+      "id": 4,
+      "name": "강지영",
+      "products": "오메가3, 루테인",
+      "duration": "정기구독 1개월",
+      "date": "2021.09.22",
+      "image": "https://images.pexels.com/photos/3923157/pexels-photo-3923157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "어떤 영양소가 필요한지 잘 몰라서 영양제 고르는게 쉽지 않았는데 필링에서는 건강진단과 함께 추천해줘서 너무 간편하네요!"
+    },
+    {
+      "id": 5,
+      "name": "전지현",
+      "products": "오메가3, 칼슘 마그네슘 비타민D",
+      "duration": "정기구독 2개월",
+      "date": "2021.09.22",
+      "image": "https://images.pexels.com/photos/7723335/pexels-photo-7723335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "1달 꾸준히 먹었어요! 생각보다 제가 잘 챙겨 먹더라구요 ㅋㅋㅋ 그리고 효과도 있는것 같아서 계속 먹으려고 월급날에 맞춰서 날짜만 변경했답니다!"
+    },
+    {
+      "id": 6,
+      "name": "조지아",
+      "products": "비타민B, 홍삼 옥타코사놀, 프로바이오틱스, 밀크씨슬",
+      "duration": "정기구독 2개월",
+      "date": "2021.09.20",
+      "image": "https://images.pexels.com/photos/5998517/pexels-photo-5998517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "생애 첫 영양제 필리와 기운차게 스타트🎉"
+    },
+    {
+      "id": 7,
+      "name": "전현무",
+      "products": "오메가3, 칼슘 마그네슘 비타민D",
+      "duration": "정기구독 4개월",
+      "date": "2021.09.20",
+      "image": "https://images.pexels.com/photos/6191554/pexels-photo-6191554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "부모님 영양제랑 같이 구매했는데 저렴하게 구입한것 같아서 너무 좋아요ㅎ 꾸준히 효과보면서 구독할것 같아요~!"
+    },
+    {
+      "id": 8,
+      "name": "허경환",
+      "products": "프로바이오틱스,칼슘 마그네슘 비타민D,비타민B,밀크씨슬",
+      "duration": "정기구독 3개월",
+      "date": "2021.09.20",
+      "image": "https://images.pexels.com/photos/8015823/pexels-photo-8015823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "이번 달도 필링합니다! 언제나 애용하고 있습니다 :)"
+    },
+    {
+      "id": 9,
+      "name": "이수현",
+      "products": "칼슘 마그네슘 비타민D,오메가3,비타민B,밀크씨슬",
+      "duration": "정기구독 28개월",
+      "date": "2021.09.20",
+      "image": "https://images.pexels.com/photos/5723607/pexels-photo-5723607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "어제 밤에 처음 구독 시작했는데 하루 만에 택배가 와서 놀랬어요! 요즘 몸이 나약해지는게 느껴져서 시작했는데 포장도 깔끔하게 오고 복용 알림이 있는 점도 마음에 들어요!! 꾸준히 먹어볼려구요☺️☺️"
+    }
+  ]
+}
